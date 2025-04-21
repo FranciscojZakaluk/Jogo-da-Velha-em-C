@@ -1,0 +1,5 @@
+fran,1,1,0,0
+julia,2,0,0,2
+thayse,1,1,0,0
+JogadorX,1,1,0,0
+JogadorO,1,0,0,1
